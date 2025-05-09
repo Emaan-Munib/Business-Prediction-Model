@@ -1,4 +1,4 @@
-""# Multimodal Business Forecasting Project
+# Multimodal Business Forecasting Project
 
 This project leverages advanced machine learning and generative AI techniques to analyze and forecast business trends using **three distinct data modalities**:
 
