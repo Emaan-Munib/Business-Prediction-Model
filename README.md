@@ -87,4 +87,3 @@ This project is ideal for business intelligence tasks such as:
 * Ensure all image data is preprocessed and aligned with the corresponding tabular and textual entries.
 * Generative AI features for explanation and image generation are optional but enhance interpretability and strategic insights.
 * Designed to be modular for easy integration of new models or modalities.
-  ""
