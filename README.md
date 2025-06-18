@@ -68,6 +68,7 @@ The output includes:
 * Prediction results for downstream business analysis
 * Human-readable AI-generated explanations of model predictions
 * AI-generated images based on custom prompts
+* UI to predict sales and do sentiment analysis
 
 ---
 
